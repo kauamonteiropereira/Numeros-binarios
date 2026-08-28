@@ -14,7 +14,7 @@ O programa usa um laço `for` para varrer os números de 0 até 100. Para cada n
 
 ## 💻 Código
 
-\`\`\`java
+​```java
 public class NumeroBinario {
     public static void main(String[] args) {
         for (int numero = 0; numero <= 100; numero++) {
@@ -23,7 +23,7 @@ public class NumeroBinario {
         }
     }
 }
-\`\`\`
+​```
 
 ## ▶️ Como executar
 
